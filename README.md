@@ -12,11 +12,11 @@
  
 ### 👨🏻‍💻 &nbsp;About Me
 
-🙋‍♂️  &nbsp;I'm A courageous, organized, ethical, responsible individual.\
-💡  &nbsp;I like to explore new technologies and try them by doing.\
-👨‍🎓  &nbsp;I'm currently a Software Engineering Undergraduate at SLIIT.\
-🌱  &nbsp;I'm currently learning MERN stack and .NET techonologies.\
-✍️  &nbsp;In my free time, I watch youtube videos, listen music and chat with my parents.\
+🙋‍♂️&nbsp;I'm A courageous, organized, ethical, responsible individual.\
+💡&nbsp;I like to explore new technologies and try them by doing.\
+👨‍🎓&nbsp;I'm currently a Software Engineering Undergraduate at SLIIT.\
+🌱&nbsp;I'm currently learning MERN stack and .NET techonologies.\
+✍️&nbsp;In my free time, I watch youtube videos, listen music and chat with my parents.\
 
 
 ### 🛠 &nbsp;Tech Stack
