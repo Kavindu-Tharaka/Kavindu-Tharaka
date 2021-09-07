@@ -59,7 +59,7 @@
 <p>
 <a href="mailto:kavindu.ktm@gmail.com"><img src="https://img.shields.io/badge/-kavindu.ktm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kavindu-tharaka/"><img src="https://img.shields.io/badge/-Kavindu%20Tharaka-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/kavindu_tharaka"><img src="https://img.shields.io/badge/-Kavindu%20Tharaka-05122A?style=flat&logo=hackerrank"/></a>
-<a href="https://stackoverflow.com/users/12306259/kavindu-tharaka"><img src="https://img.shields.io/badge/-Kavindu%20Tharaka-05122A?style=flat&logo=stackoverflow"/></a>
+<a href="https://www.hackerrank.com/kavindu_tharaka"><img src="https://img.shields.io/badge/-Kavindu%20Tharaka-1BA94C?style=flat&logo=hackerrank&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/12306259/kavindu-tharaka"><img src="https://img.shields.io/badge/-Kavindu%20Tharaka-F48024?style=flat&logo=stackoverflow&logoColor=white"/></a>
 <a href="https://www.facebook.com/kavindu.tharaka.315"><img src="https://img.shields.io/badge/-Kavindu%20Tharaka-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
