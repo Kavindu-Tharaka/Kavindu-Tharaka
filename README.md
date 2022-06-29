@@ -1,4 +1,4 @@
-<div align="center">   <h3>   Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h3>
+<div align="center">   <h3>   Hello World!  </h3>
 <img  alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>    </div>
 
 <h1 align="center">Hello, I'm Kavindu Tharaka </h1>
